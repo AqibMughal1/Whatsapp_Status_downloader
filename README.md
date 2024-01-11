@@ -1,8 +1,13 @@
-# whatsapp_downloader
+# Whatsapp_Status_downloader
 
 A new Flutter project.
 
 ## Getting Started
+
+### Run these commands to test
+flutter pub get
+
+flutter run
 
 This project is a starting point for a Flutter application.
 
